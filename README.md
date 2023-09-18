@@ -22,9 +22,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-  <video width="460px" height="100px" controls="controls">
-    <source src="./MarioKart_Lab1.mov" type="video/mp4" />
-  </video>
+  <img src='./MarioKart_Lab1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
