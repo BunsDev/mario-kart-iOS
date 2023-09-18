@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-  <video width="450px" height="100px" controls="controls">
+  <video width="460px" height="100px" controls="controls">
     <source src="./MarioKart_Lab1.mov" type="video/mp4" />
   </video>
 
