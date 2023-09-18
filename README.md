@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-  <img src='./MarioKart_Lab1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='./Mariokart_lab1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
